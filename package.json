@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://admin-backend-deploy.onrender.com"
+  "proxy": "http://localhost:7001"
 }
